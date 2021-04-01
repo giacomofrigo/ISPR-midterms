@@ -2,3 +2,5 @@
 /1 midterm/output_analyzer.py
 /1 midterm/output_analyzer_lastday.py
 /1 midterm/ten_file_fixer.py
+/venv/
+.idea/
