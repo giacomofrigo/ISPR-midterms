@@ -1,0 +1,3 @@
+[submodule "3 midterm"]
+	path = 3 midterm
+	url = https://github.com/giacomofrigo/tensorflow-textgen
